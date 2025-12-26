@@ -18,8 +18,8 @@ A lightweight Command Line Interface (CLI) to-do list manager written in Rust. T
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/todo_cli.git
-cd todo_cli
+git clone https://github.com/PranavGaur7/TODO-CLI.git
+cd TODO-CLI
 
 ```
 
