@@ -97,7 +97,3 @@ This project uses the following Rust crates:
 * **[serde](https://crates.io/crates/serde)**: Framework for serializing and deserializing Rust data structures.
 * **[serde_json](https://crates.io/crates/serde_json)**: For parsing and formatting JSON data.
 * **[uuid](https://crates.io/crates/uuid)**: For generating unique IDs (included in dependencies).
-
----
-
-**Would you like me to refactor the `Args::build` function in `main.rs` so that the `list` command doesn't require a dummy argument?**
